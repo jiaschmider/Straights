@@ -1,0 +1,14 @@
+h
+c
+c
+c
+play 7D
+play 7C
+play 8H
+play 9D
+play JD
+play 4D
+play TS
+play JH
+discard AC
+play KH

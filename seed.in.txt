@@ -1,0 +1,23 @@
+h
+c
+c
+c
+deck
+play 7S
+play 7H
+play 7C
+play 9S
+play 8C
+play 5C
+play 9C
+play TS
+play TD
+deck
+play 3S
+plat JD
+discard 2C
+discard JC
+deck 
+quit
+
+
